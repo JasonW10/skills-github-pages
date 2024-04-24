@@ -1,5 +1,0 @@
----
-title: "My-Blog"
-date: 2024-04-22
----
-Hello to my blog.
